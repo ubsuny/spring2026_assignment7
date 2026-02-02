@@ -12,7 +12,7 @@ header-includes:
 - PHY411: Do problems 1–3.
 - PHY 506: Do all four problems.
 
-Accept the assignment from github classroom: https://classroom.github.com/a/dummylink. This will create a new repository for you on github, titled something like `compphys-assignment7-username`.
+Accept the assignment from github classroom: https://classroom.github.com/a/pkol8Ur-. This will create a new repository for you on github, titled something like `compphys-assignment7-username`.
 You should submit your code through github classroom, and your writeup through UBLearns. If you prefer, you can do your writeup "in-line" in your notebooks (using Markdown cells), convert the notebook to HTML/PDF/etc., and upload the converted notebooks.
 
 
@@ -36,7 +36,7 @@ For plotting:
 
 - In 1D, plot the walker's position versus the step number.
 - In 2D and 3D, just plot the spatial coordinates (no need to plot step number).
-- For a 3D plot, you might consider using the following example: https://matplotlib.org/stable/gallery/mplot3d/scatter3d.html. Feel free to use what you like. 
+- For a 3D plot, you might consider using the following example: [scatter3d](https://matplotlib.org/stable/gallery/mplot3d/scatter3d.html) . Feel free to use what you like. 
 
 ### Problem 1b: diffusion
 For $N_{dim}=1$, $2$, and $3$ dimensions, plot the quantity $\langle | x_n^2 | \rangle$ versus $N_{dim}$. For each $N_{dim}$, calculate the diffusion constant from your simulation, and compare with theoretical expectations. 
@@ -47,7 +47,7 @@ For $N_{dim}=1$, $2$, and $3$ dimensions, plot the quantity $\langle | x_n^2 | \
 ## Problem 2: Ising model
 *30 points*
 
-Start from the `RandomNumbers/ising.ipynb` notebook in the CompPhys repository (the notebook has bene copied here). Do your work in `Problem2/Problem2.ipynb`.
+Start from the `RandomNumbers/ising.ipynb` notebook in the CompPhys repository (the notebook has been copied here). Do your work in `Problem2/Problem2.ipynb`.
 
 ### Problem 2a
 *10 points*
